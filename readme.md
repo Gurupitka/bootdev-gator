@@ -1,0 +1,1 @@
+Just a simple bootdev guided project for a blog aggregator thing. they call it "gator".
